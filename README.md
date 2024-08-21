@@ -21,7 +21,7 @@ To install and run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/social-network-api.git
+   git clone https://github.com/jerrietkuo/SocialNetworkAPI
    ```
 2. **Navigate to the Project Directory:**
    ```bash
